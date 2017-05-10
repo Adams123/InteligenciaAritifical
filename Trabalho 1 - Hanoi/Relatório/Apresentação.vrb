@@ -1,0 +1,38 @@
+\frametitle{Implementação}
+Utilizando a árvore de possibilidades, podemos utilizar a seguinte estrutura:
+
+\begin{minipage}[b]{0.5\textwidth}
+\begin{figure}[thp] % the figure provides the caption
+\centering          % which should be centered
+\begin{tabular}{c}
+\
+\begin{lstlisting}[tabsize=8,language=C++]
+typedef struct grafo{
+   int key[20];
+   int flag;
+   Lista *L;
+}Grafo;
+\end{lstlisting}
+\end{tabular}
+\caption*{Estrutura do Grafo}
+\end{figure}
+\end{minipage}%
+\begin{minipage}[b]{0.5\textwidth}
+\begin{figure}[thp] % the figure provides the caption
+\centering          % which should be centered
+\begin{tabular}{c}
+\begin{lstlisting}[tabsize=8,basicstyle=\ttfamily]
+typedef struct bloco {
+        int valor;
+        int flag;
+        struct bloco *prox;
+} no;
+typedef struct {
+        no *inicio;
+        no *fim;
+} Lista;
+\end{lstlisting}
+\end{tabular}
+\caption*{Estrutura da lista de Adjacência}
+\end{figure}
+\end{minipage}%

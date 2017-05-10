@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1412482795 source:c:\users\others\documents\ana clara\inteligência artificial\hanoi\grafoo.c
+	"grafoo.h"
+	<stdlib.h>
+
+1412476802 c:\users\others\documents\ana clara\inteligência artificial\hanoi\grafoo.h
+	"lista.h"
+
+1412258842 c:\users\others\documents\ana clara\inteligência artificial\hanoi\lista.h
+	<stdio.h>
+
+1412476794 source:c:\users\others\documents\ana clara\inteligência artificial\hanoi\hanoi.c
+	"hanoi.h"
+	<math.h>
+	<string.h>
+
+1370470159 source:c:\users\others\documents\ana clara\inteligência artificial\hanoi\lista.c
+	"lista.h"
+	<stdlib.h>
+
+1412476793 c:\users\others\documents\ana clara\inteligência artificial\hanoi\hanoi.h
+	"grafoo.h"
+
+1412482547 source:c:\users\others\documents\ana clara\inteligência artificial\hanoi\main.c
+	"hanoi.h"
+
+1412574538 source:c:\users\adams\desktop\hanoi\hanoi.c
+	"hanoi.h"
+
+1412573274 c:\users\adams\desktop\hanoi\hanoi.h
+	"grafoo.h"
+
+1412584476 c:\users\adams\desktop\hanoi\grafoo.h
+	"Pilha.h"
+	<limits.h>
+	<float.h>
+	"Fila.h"
+
+1412584346 c:\users\adams\desktop\hanoi\lista.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1370470159 source:c:\users\adams\desktop\hanoi\lista.c
+	"lista.h"
+	<stdlib.h>
+
+1412587681 source:c:\users\adams\desktop\hanoi\main.c
+	"hanoi.h"
+
+1412587908 source:c:\users\adams\desktop\hanoi\grafoo.c
+	"grafoo.h"
+
+1412565446 source:c:\users\adams\desktop\hanoi\pilha.c
+	"Pilha.h"
+
+1412564592 c:\users\adams\desktop\hanoi\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1412584423 source:c:\users\adams\desktop\hanoi\fila.c
+	"Fila.h"
+
+1412584431 c:\users\adams\desktop\hanoi\fila.h
+	<stdlib.h>
+	<stdio.h>
+

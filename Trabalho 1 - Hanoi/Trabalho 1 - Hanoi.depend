@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1412587681 source:d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\main.c
+	"hanoi.h"
+
+1412584423 source:d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\fila.c
+	"Fila.h"
+
+1412584431 d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\fila.h
+	<stdlib.h>
+	<stdio.h>
+
+1370470159 source:d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\lista.c
+	"lista.h"
+	<stdlib.h>
+
+1412584346 d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\lista.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1412573274 d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\hanoi.h
+	"grafoo.h"
+
+1412584476 d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\grafoo.h
+	"Pilha.h"
+	<limits.h>
+	<float.h>
+	"Fila.h"
+
+1412564592 d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1412565446 source:d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\pilha.c
+	"Pilha.h"
+
+1412597244 source:d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\grafoo.c
+	"grafoo.h"
+
+1412588892 source:d:\dropbox\public\faculdade\ia\trabalho 1 - hanoi\hanoi.c
+	"hanoi.h"
+
